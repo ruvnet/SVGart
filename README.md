@@ -1,5 +1,7 @@
 # SVGart
-A collection of SVG images by rUv
+A collection of SVG images by rUv provided under a few open source license. Use as you wish. Send me a links and I'll include it on this page.
+
+See complete collection of vector art at http://www.instagram.com/ruv
 
 Sample
 
