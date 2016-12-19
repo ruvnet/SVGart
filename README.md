@@ -5,7 +5,7 @@ See complete collection of vector art at http://www.instagram.com/ruv
 
 Samples
 
-![alt tag](https://github.com/ruvnet/SVGart/blob/master/png/darth.png?raw=true)
+![alt tag](https://github.com/ruvnet/SVGart/blob/master/png/darth2.png?raw=true)
 
 ![alt tag](https://github.com/ruvnet/SVGart/blob/master/png/jimi-hendrix.png?raw=true)
 
