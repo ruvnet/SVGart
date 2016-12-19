@@ -1,3 +1,5 @@
 # SVGart
 A collection of SVG images by rUv
-![alt tag](https://raw.githubusercontent.com/ruvnet/SVGart/master/IMNGN%2010-12-16%2017.48.53.svg)
+
+Sample.
+![alt tag](https://github.com/ruvnet/SVGart/blob/master/png/can1.png?raw=true)
