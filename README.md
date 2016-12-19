@@ -7,6 +7,8 @@ Samples
 
 ![alt tag](https://github.com/ruvnet/SVGart/blob/master/png/darth.png?raw=true)
 
+![alt tag](https://github.com/ruvnet/SVGart/blob/master/png/jimi-hendrix.png?raw=true)
+
 ![alt tag](https://github.com/ruvnet/SVGart/blob/master/png/kim.png?raw=true)
 
 ![alt tag](https://github.com/ruvnet/SVGart/blob/master/png/can1.png?raw=true)
